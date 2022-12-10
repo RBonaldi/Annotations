@@ -1,0 +1,13 @@
+C:\Projeto Api Boot\Annotations\src\src\bin\Release\netstandard2.0\ComponentModel.Annotations.deps.json
+C:\Projeto Api Boot\Annotations\src\src\bin\Release\netstandard2.0\ComponentModel.Annotations.dll
+C:\Projeto Api Boot\Annotations\src\src\bin\Release\netstandard2.0\ComponentModel.Annotations.pdb
+C:\Projeto Api Boot\Annotations\src\src\bin\Release\netstandard2.0\ComponentModel.Annotations.xml
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.csproj.AssemblyReference.cache
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.Resources.Strings.resources
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.csproj.GenerateResource.cache
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.AssemblyInfoInputs.cache
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.AssemblyInfo.cs
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.csproj.CoreCompileInputs.cache
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.dll
+C:\Projeto Api Boot\Annotations\src\src\obj\Release\netstandard2.0\ComponentModel.Annotations.pdb

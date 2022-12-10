@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.6</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Ole Consignado</Authors>
     <Product />
     <Description>This is a customization of System.ComponentModel.Annotations. Sources have been forked from https://github.com/dotnet/corefx/releases/tag/v1.1.8 then customized by Ole Consignado in order to meet it needs.

@@ -1,0 +1,17 @@
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\AnnotationsSampleApp.deps.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\AnnotationsSampleApp.runtimeconfig.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\AnnotationsSampleApp.runtimeconfig.dev.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\AnnotationsSampleApp.dll
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\AnnotationsSampleApp.pdb
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\ComponentModel.Annotations.dll
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\ComponentModel.Annotations.pdb
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.0\ComponentModel.Annotations.xml
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.csproj.AssemblyReference.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.AssemblyInfoInputs.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.AssemblyInfo.cs
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.csproj.CoreCompileInputs.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.csproj.CopyComplete
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.dll
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.pdb
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.0\AnnotationsSampleApp.genruntimeconfig.cache

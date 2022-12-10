@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AnnotationsSampleApp</id>
+    <version>1.0.1</version>
+    <authors>Rafael Bonaldi - rafaelbonaldi@gmail.com</authors>
+    <icon>logo.png</icon>
+    <readme>README nuget.md</readme>
+    <projectUrl>https://github.com/RBonaldi/Annotations</projectUrl>
+    <description>This is a customization of System.ComponentModel.Annotations.</description>
+    <repository type="GitHub" url="https://github.com/RBonaldi/Annotations" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="ComponentModel.Annotations" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Projeto Api Boot\Annotations\src\sample\bin\Release\netcoreapp2.0\AnnotationsSampleApp.runtimeconfig.json" target="lib\netcoreapp2.0\AnnotationsSampleApp.runtimeconfig.json" />
+    <file src="C:\Projeto Api Boot\Annotations\src\sample\bin\Release\netcoreapp2.0\AnnotationsSampleApp.dll" target="lib\netcoreapp2.0\AnnotationsSampleApp.dll" />
+    <file src="C:\Projeto Api Boot\Annotations\Assets\logo.png" target="\logo.png" />
+    <file src="C:\Projeto Api Boot\Annotations\README nuget.md" target="\README nuget.md" />
+  </files>
+</package>

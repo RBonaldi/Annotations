@@ -1,17 +1,17 @@
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.deps.json
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.runtimeconfig.json
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.runtimeconfig.dev.json
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.dll
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.pdb
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.dll
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.pdb
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.xml
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.AssemblyReference.cache
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.AssemblyInfoInputs.cache
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.AssemblyInfo.cs
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.CoreCompileInputs.cache
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.CopyComplete
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.dll
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.pdb
-C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.genruntimeconfig.cache
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.deps.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.runtimeconfig.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.runtimeconfig.dev.json
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.dll
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\AnnotationsSampleApp.pdb
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.dll
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.pdb
+C:\Projeto Api Boot\Annotations\src\sample\bin\Debug\netcoreapp2.1\ComponentModel.Annotations.xml
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.AssemblyReference.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.AssemblyInfoInputs.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.AssemblyInfo.cs
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.CoreCompileInputs.cache
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.csproj.CopyComplete
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.dll
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.pdb
+C:\Projeto Api Boot\Annotations\src\sample\obj\Debug\netcoreapp2.1\AnnotationsSampleApp.genruntimeconfig.cache

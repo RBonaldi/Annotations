@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Rafael Bonaldi - rafaelbonaldi@gmail.com</Authors>
     <Description>This is a customization of System.ComponentModel.Annotations.</Description>
     <PackageProjectUrl>https://github.com/RBonaldi/Annotations</PackageProjectUrl>

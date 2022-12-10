@@ -1707,10 +1707,9 @@
       },
       "ComponentModel.Annotations/1.0.1": {
         "type": "project",
-        "framework": ".NETStandard,Version=v1.6",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "1.1.1",
-          "NETStandard.Library": "1.6.1",
           "System.Runtime.Serialization.Formatters": "4.3.0"
         },
         "compile": {
@@ -5951,7 +5950,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Framework\\NetPackages": {},
+        "C:\\Projeto Api Boot\\Annotations\\src\\sample\\bin\\Release": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://pkgs.dev.azure.com/supermix/_packaging/Supermix/nuget/v3/index.json": {}
       },
