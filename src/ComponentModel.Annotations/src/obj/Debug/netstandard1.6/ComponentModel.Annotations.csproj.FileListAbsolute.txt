@@ -1,0 +1,13 @@
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\bin\Debug\netstandard1.6\ComponentModel.Annotations.xml
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\bin\Debug\netstandard1.6\ComponentModel.Annotations.deps.json
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\bin\Debug\netstandard1.6\ComponentModel.Annotations.dll
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\bin\Debug\netstandard1.6\ComponentModel.Annotations.pdb
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.csproj.AssemblyReference.cache
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.Resources.Strings.resources
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.csproj.GenerateResource.cache
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.AssemblyInfoInputs.cache
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.AssemblyInfo.cs
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.csproj.CoreCompileInputs.cache
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.dll
+C:\Projetos\otc-annotations\src\Otc.ComponentModel.Annotations\src\obj\Debug\netstandard1.6\ComponentModel.Annotations.pdb
