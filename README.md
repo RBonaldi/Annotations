@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#Validate">
-        <img alt="logo" src="Assets/logo.png">
+        <img alt="logo" src="Assets/logo.png" style="width: 250px">
     </a>
 </p>
 <br>
